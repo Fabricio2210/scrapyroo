@@ -4,15 +4,13 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Fabricio",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "mongoose": "^5.7.0",
-    "phantom": "^6.3.0",
     "puppeteer": "^1.20.0",
     "request": "^2.88.0",
     "shortid": "^2.2.15",
