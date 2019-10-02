@@ -8,6 +8,10 @@ const urlSchemaModelo = new Schema({
     },
     imgPath:{
         type:Array
+    },
+    pathId:{
+        type: String,
+        required: true
     }
 });
 
