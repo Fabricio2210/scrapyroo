@@ -1,2 +1,2 @@
 # scrapyroo
-App para "scrap" de imagens (em teste)
+App para "scrap" de imagens
